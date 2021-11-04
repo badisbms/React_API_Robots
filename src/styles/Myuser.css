@@ -1,0 +1,18 @@
+.MyUser-usercont{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 800px;
+}
+
+.MyUser-choiceUser {
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.06) 0px 2px 4px 0px inset;
+    margin: 20px;
+  
+  }
+
+.MyUser-choiceUser > img {
+    width: 100px;
+    height: 100px;
+  }
